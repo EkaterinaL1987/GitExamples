@@ -1,0 +1,15 @@
+D:\Мои файлы\Git13072022\Examples003\bin\Debug\net6.0\Examples003.exe
+D:\Мои файлы\Git13072022\Examples003\bin\Debug\net6.0\Examples003.deps.json
+D:\Мои файлы\Git13072022\Examples003\bin\Debug\net6.0\Examples003.runtimeconfig.json
+D:\Мои файлы\Git13072022\Examples003\bin\Debug\net6.0\Examples003.dll
+D:\Мои файлы\Git13072022\Examples003\bin\Debug\net6.0\Examples003.pdb
+D:\Мои файлы\Git13072022\Examples003\obj\Debug\net6.0\Examples003.csproj.AssemblyReference.cache
+D:\Мои файлы\Git13072022\Examples003\obj\Debug\net6.0\Examples003.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои файлы\Git13072022\Examples003\obj\Debug\net6.0\Examples003.AssemblyInfoInputs.cache
+D:\Мои файлы\Git13072022\Examples003\obj\Debug\net6.0\Examples003.AssemblyInfo.cs
+D:\Мои файлы\Git13072022\Examples003\obj\Debug\net6.0\Examples003.csproj.CoreCompileInputs.cache
+D:\Мои файлы\Git13072022\Examples003\obj\Debug\net6.0\Examples003.dll
+D:\Мои файлы\Git13072022\Examples003\obj\Debug\net6.0\refint\Examples003.dll
+D:\Мои файлы\Git13072022\Examples003\obj\Debug\net6.0\Examples003.pdb
+D:\Мои файлы\Git13072022\Examples003\obj\Debug\net6.0\Examples003.genruntimeconfig.cache
+D:\Мои файлы\Git13072022\Examples003\obj\Debug\net6.0\ref\Examples003.dll
