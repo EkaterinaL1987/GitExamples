@@ -6,5 +6,6 @@ int max = a;
 
 if (b>max) max = b;
 Console.Write(max);
-//Задача решена
+
+
 
